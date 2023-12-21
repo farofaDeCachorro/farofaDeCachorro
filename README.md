@@ -1,6 +1,6 @@
 ## Apollo Daniel ao seu dispor
  <div>
-  <a href="https://github.com/farofaDeCachorro">
+  <a href="https://github.com/apollodaniel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apollodaniel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollodaniel&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -11,7 +11,7 @@
   <img align="center" alt="doge-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="doge-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> 
   <img align="center" alt="doge-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
- <img align="right" alt="Doge"  height="200" width="200" src="https://github.com/apollodaniel/apollodaniel/blob/main/tenor.gif">
+ <img align="right" alt="Doge"  height="200" width="200" src="https://github.com/apollodaniel/apollodaniel/blob/main/coding.gif">
 </div>
   
   ##
