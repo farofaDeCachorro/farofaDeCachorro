@@ -27,6 +27,7 @@
   <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+  <img align="center" alt="asm" height="30" width="30" src="https://raw.githubusercontent.com/file-icons/icons/refs/heads/master/svg/NASM.svg">
 </div>
 
 <div align="start">
